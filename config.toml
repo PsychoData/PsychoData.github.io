@@ -1,0 +1,5 @@
+baseURL = "http://blog.contoso.one/"
+languageCode = "en-us"
+title = "Psycho's Tech (Bits|Bytes)"
+theme = "hugo-theme-dream"
+googleAnalytics = "UA-114162482-1"
